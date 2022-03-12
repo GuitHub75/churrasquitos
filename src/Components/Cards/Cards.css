@@ -1,0 +1,34 @@
+.content-cards{
+    padding: 2% 5%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.my-card{
+    width: 30%;
+    margin: 1%;
+    background: white;
+    border-radius: 25px;
+}
+.img{
+width: 100%;
+border-radius: 25px;
+}
+.my-body-card{
+  display: flex;
+flex-direction: column;  
+padding: 4%;
+}
+.my-footer-card{
+  display: flex;
+  justify-content: center;
+  padding: 4%;
+  }
+
+  @media (max-width:800px){
+    .my-card{
+        width: 90%!important;
+    }
+  }
+ 

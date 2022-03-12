@@ -1,0 +1,12 @@
+.bg-light {
+    --bs-bg-opacity: 1;
+    background-color:#f57a07!important;
+}
+.bi-house-door-fill{
+    color: #FFF;
+    font-size: x-large;
+}
+.container{
+    display: flex;
+    justify-content: center!important;
+}
