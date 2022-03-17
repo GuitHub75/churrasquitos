@@ -1,4 +1,5 @@
 
+import  React from "react"
 import Platos from "../../Data/Platos.json"
 import alitas from "../../img/alitas.jpg"
 
